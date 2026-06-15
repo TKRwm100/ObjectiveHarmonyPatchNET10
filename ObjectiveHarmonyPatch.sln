@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11903.348 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectiveHarmonyPatch", "ObjectiveHarmonyPatch.csproj", "{9A22C1B4-6EDF-46AD-A03E-71847594E6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectiveHarmonyPatchNet10", "ObjectiveHarmonyPatchNet10.csproj", "{5FF65AFD-7239-5DD0-0F60-D2B1B5A20B82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9A22C1B4-6EDF-46AD-A03E-71847594E6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A22C1B4-6EDF-46AD-A03E-71847594E6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A22C1B4-6EDF-46AD-A03E-71847594E6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF65AFD-7239-5DD0-0F60-D2B1B5A20B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF65AFD-7239-5DD0-0F60-D2B1B5A20B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF65AFD-7239-5DD0-0F60-D2B1B5A20B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF65AFD-7239-5DD0-0F60-D2B1B5A20B82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
